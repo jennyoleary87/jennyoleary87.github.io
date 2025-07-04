@@ -2,6 +2,9 @@ layout: default
 title: "resume"
 permalink: https://jennyoleary87.github.io/resume
 
+[Home](index.md)
+[Resume](resume.md)
+
 ## LANGUAGES  |  FRAMEWORKS | TOOLS
 Java, JavaScript, HTML, CSS | React, Vite | GitHub Pages, Figma
 

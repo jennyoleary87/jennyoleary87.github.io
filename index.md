@@ -1,13 +1,12 @@
 layout: default
 title: "Home"
 
+[Home](index.md)
 [Resume](resume.md)
-[Projects](projects.md)
-[Contact](contact.md)
 
 # Hello! I'm Jenny!
 
-![headshot](park_headshot.JPG)
+![headshot](assets/park_headshot.JPG)
 
 I am a software development learner seeking frontend developer roles!
 As a LaunchCode student, I have worked with HTML, CSS, JavaScript, and Java to create fullstack projects.
