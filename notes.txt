@@ -1,0 +1,27 @@
+● A Home page, with:
+    ○ Images that express your personal brand.
+    ○ A brief summary of who you are, what you can do (make sure to
+    include your new technical skills!), and what you are seeking for your career.
+
+
+Hello! I am a software development learner seeking frontend developer roles!
+As a LaunchCode student, I have worked with HTML, CSS, JavaScript, and Java to create fullstack projects.
+        
+
+● A Resume and Achievements page or section
+    ○ MVP: Download link and visual representation of a resume you would
+    use to apply to a job.
+
+
+● A Project Work page or section
+    ○ MVP: A name and description of the project, at least one screenshot,
+    and existing links to your Front-End Project (may just be GitHub).
+
+FitFlow fitness web app (LaunchCode Unit 1): https://github.com/jennyoleary87/unit1-project-fitness-jennifer-o.git 
+Herbert West Landscaping (SCC Frontend course): https://github.com/jennyoleary87/herbert-west-landscaping.git 
+
+● A Contact section
+    ○ MVP: An email address or LinkedIn link.
+
+www.linkedin.com/in/jenniferoleary2004 
+
