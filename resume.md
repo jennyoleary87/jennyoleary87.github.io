@@ -6,6 +6,7 @@ permalink: https://jennyoleary87.github.io/resume
 
 [Home](index.md)
 [Resume](resume.md)
+[Projects](projects.md)
 
 ## LANGUAGES  |  FRAMEWORKS | TOOLS
 Java, JavaScript, HTML, CSS | React, Vite | GitHub Pages, Figma
@@ -39,4 +40,5 @@ January 2022 - February 2024
 
 LaunchCode - Full Time Software Development Program (2025) 
 * Intensive coding bootcamp focused on JavaScript, React, Java, and related frameworks.
+
 St. Charles Community College - Associate of Science, Computer Science (2024)

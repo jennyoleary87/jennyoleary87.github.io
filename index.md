@@ -5,6 +5,7 @@ title: "Home"
 
 [Home](index.md)
 [Resume](resume.md)
+[Projects](projects.md)
 
 # Hello! I'm Jenny!
 
