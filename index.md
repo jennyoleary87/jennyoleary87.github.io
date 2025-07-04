@@ -1,5 +1,7 @@
+---
 layout: default
 title: "Home"
+---
 
 [Home](index.md)
 [Resume](resume.md)

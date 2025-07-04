@@ -1,6 +1,8 @@
+---
 layout: default
 title: "resume"
 permalink: https://jennyoleary87.github.io/resume
+---
 
 [Home](index.md)
 [Resume](resume.md)
@@ -15,15 +17,18 @@ FitFlow Fitness — LaunchCode Capstone Project (2025)
 * Implemented an Interval Timer where users change adjust settings with useStates
 * Developed automated workout logging with useEffect hooks to store data
 * HTML, CSS, JavaScript, React, Vite, GitHub Pages
+
 St Charles County Families For Public Schools (sccffps.org) — CPM-295, Web Capstone course at SCC (2024)
 * Collaborated with 3 classmates to redesign and improve navigation of existing WordPress website
 * Developed Wireframes and Prototypes: Created low-fidelity wireframes and interactive prototypes using Figma to visualize design concepts and user flows
 * Conducted User Research: Gathered feedback from client and peers to identify user needs and preferences, informing design decisions for the website
 * Conducted Usability Testing: Assisted in testing the website with users to identify areas for improvement and enhance user experience
+
 Extended Care Aide, Substitute Teacher, Building Aide — Saint Theodore Catholic School
 September 2024 - March 2025 
 * Supervised and coordinated activities for 40+ students
 * Maintained comprehensive documentation of students
+
 Barista — Alpha & Omega 
 January 2022 - February 2024
 * Created food and drinks items to serve interested customers
