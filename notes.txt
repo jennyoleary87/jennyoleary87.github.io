@@ -23,5 +23,5 @@ Herbert West Landscaping (SCC Frontend course): https://github.com/jennyoleary87
 ● A Contact section
     ○ MVP: An email address or LinkedIn link.
 
-www.linkedin.com/in/jenniferoleary2004 
+www.linkedin.com/in/jenniferoleary2004
 
